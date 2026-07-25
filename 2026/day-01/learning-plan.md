@@ -13,3 +13,5 @@
 - Keep the document **under 1 page**
 
 - Be honest and realistic; consistency matters more than perfection
+
+These are my plans!
