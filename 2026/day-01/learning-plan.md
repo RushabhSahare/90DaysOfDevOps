@@ -14,4 +14,4 @@
 
 - Be honest and realistic; consistency matters more than perfection
 
-These are my plans!
+These are my plans for the next 90 days!
