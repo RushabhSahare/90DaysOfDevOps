@@ -1,7 +1,10 @@
 Linux Commands Cheat Sheet – Day 03 (90 Days of DevOps)
 A quick-reference toolkit for real troubleshooting: process management, file system, and networking.
+
+
 1. Process Management
-Command	Usage Note
+
+
 ps aux	List all running processes with user, PID, CPU and memory usage
 
 top	Live view of processes, sorted by CPU usage by default
@@ -29,7 +32,8 @@ systemctl status <service>	Check the status of a systemd-managed service
 systemctl restart <service>	Restart a systemd-managed service
 
 2. File System
-Command	Usage Note
+
+
 ls -lah	List files with permissions, size and hidden files
 
 cd <path>	Change the working directory
@@ -62,7 +66,7 @@ grep -i "error" <file>	Search a file for a pattern, case-insensitive
 
 
 3. Networking Troubleshooting
-Command	Usage Note
+
 
 ping <host>	Test basic connectivity/reachability to a host
 
